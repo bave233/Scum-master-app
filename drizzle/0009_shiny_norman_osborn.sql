@@ -1,0 +1,1 @@
+ALTER TABLE `timeline_events` ADD `release_version` text;

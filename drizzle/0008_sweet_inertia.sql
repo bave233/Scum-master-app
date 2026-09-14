@@ -1,0 +1,1 @@
+ALTER TABLE `timeline_events` ADD `project_title` text;
