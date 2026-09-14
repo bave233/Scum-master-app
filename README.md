@@ -1,5 +1,16 @@
 # Scum Master App
 
+<img width="1265" height="785" alt="Screenshot 2569-09-14 at 09 35 04" src="https://github.com/user-attachments/assets/c2841788-f91f-41ca-9991-8038e2df895c" />
+
+<img width="443" height="644" alt="Screenshot 2569-09-14 at 09 34 38" src="https://github.com/user-attachments/assets/0f16d8d3-28a9-4107-8f0c-599544d67048" />
+
+<img width="1248" height="464" alt="Screenshot 2569-09-14 at 09 37 03" src="https://github.com/user-attachments/assets/aeddeeb6-3cda-45db-b62a-18956e4dadd9" />
+
+<img width="1245" height="412" alt="Screenshot 2569-09-14 at 09 36 45" src="https://github.com/user-attachments/assets/9a06653a-65c0-4dbf-ad9d-62cec75af72d" />
+
+<img width="1266" height="598" alt="Screenshot 2569-09-14 at 09 35 48" src="https://github.com/user-attachments/assets/529ce90a-4da9-4951-9988-44882fb137db" />
+
+
 แอปสำหรับวางแผนกำลังทีมใน Sprint และดู Development Timeline ทั้งปี ใช้งานบนเครื่องของตัวเองผ่านเว็บหรือ macOS app โดยเชื่อม Jira เพื่อดูงานของสมาชิกและ Manday ที่วางแผนไว้
 
 ## ทำอะไรได้บ้าง
